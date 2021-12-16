@@ -4,10 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Name : Abhimanyu Pratap Singh 
-ID : 1911981390
+Name : Priyanka 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
